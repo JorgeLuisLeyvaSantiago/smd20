@@ -12059,7 +12059,7 @@ i{
 	color: white;
 	text-align: center;
 	/* margin-bottom: -4.5rem; */
-  margin-top: 5.5rem;
+  margin-top: 8.5rem;
 }
 
 .p_main {
@@ -12081,15 +12081,15 @@ i{
 
   /* font-family: cursive; */
 
-  margin-bottom: -2.5rem;
+  /* margin-bottom: -2.5rem; */
   /* margin-left: 1.5rem ;
   margin-right: 1.5rem ; */
 
   /* border-color: var(--bs-yellow); */
-  /* margin-top: 0.8rem; */
+  margin-top: 1rem;
 
 	display: inline-block;
-	padding: 1rem 5rem;
+	padding: 1rem 3.5rem;
   background: linear-gradient(to top, #FFA500, #FFD700);
   /* background: linear-gradient(to right, #FFD700, #FFA500); */
 	/* background-color: #FCD200; */
@@ -12110,7 +12110,7 @@ i{
   font-weight: bolder;
 
 	display: inline-block;
-	padding: 1rem 5rem;
+	padding: 1rem 3.5rem;
   background: linear-gradient(to top, #FFA500, #FFD700);
   /* background: linear-gradient(to right, #FFD700, #FFA500); */
 	/* background-color: #FCD200; */
@@ -12131,7 +12131,7 @@ i{
   font-weight: bolder;
 
 	display: inline-block;
-	padding: 1rem 5rem;
+	padding: 1rem 4rem;
   /* background: linear-gradient(to top, #FFA500, #FFD700); */
   background: linear-gradient(to bottom, #1abc9c, #16a085);
   /* background: linear-gradient(to right, #FFD700, #FFA500); */
@@ -12363,6 +12363,7 @@ i{
 
 
 .header-discount {
+
   background-color: red;
   /* background-color: #FFC107; Cambiar el color de fondo a amarillo */
   color: #000;
