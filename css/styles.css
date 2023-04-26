@@ -12081,8 +12081,8 @@ i{
 
   /* font-family: cursive; */
 
-  /* margin-bottom: 2.5rem;
-  margin-left: 1.5rem ;
+  margin-bottom: -2.5rem;
+  /* margin-left: 1.5rem ;
   margin-right: 1.5rem ; */
 
   /* border-color: var(--bs-yellow); */
@@ -12090,7 +12090,7 @@ i{
 
 	display: inline-block;
 	padding: 1rem 5rem;
-  background: linear-gradient(to bottom, #1abc9c, #16a085);
+  background: linear-gradient(to top, #FFA500, #FFD700);
   /* background: linear-gradient(to right, #FFD700, #FFA500); */
 	/* background-color: #FCD200; */
 	border-radius: 50px;
@@ -12111,7 +12111,7 @@ i{
 
 	display: inline-block;
 	padding: 1rem 5rem;
-  background: linear-gradient(to bottom, #1abc9c, #16a085);
+  background: linear-gradient(to top, #FFA500, #FFD700);
   /* background: linear-gradient(to right, #FFD700, #FFA500); */
 	/* background-color: #FCD200; */
 	border-radius: 50px;
@@ -12132,8 +12132,8 @@ i{
 
 	display: inline-block;
 	padding: 1rem 5rem;
-  background: linear-gradient(to top, #FFA500, #FFD700);
-  /* background: linear-gradient(to bottom, #1abc9c, #16a085); */
+  /* background: linear-gradient(to top, #FFA500, #FFD700); */
+  background: linear-gradient(to bottom, #1abc9c, #16a085);
   /* background: linear-gradient(to right, #FFD700, #FFA500); */
 	/* background-color: #FCD200; */
 	border-radius: 50px;
@@ -12363,7 +12363,8 @@ i{
 
 
 .header-discount {
-  background-color: #FFC107; /* Cambiar el color de fondo a amarillo */
+  background-color: red;
+  /* background-color: #FFC107; Cambiar el color de fondo a amarillo */
   color: #000;
   font-size: 25px;
   font-weight: bold;
